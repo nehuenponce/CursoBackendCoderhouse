@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Berenjena en Escabeche",
+    "description": "Las mas ricas del condado",
+    "price": 4999,
+    "thumbnail": "Foto de Berenjena en Escabeche",
+    "code": "abc134",
+    "stock": 9
+  },
+  {
+    "id": "2",
+    "title": "Chucrut",
+    "description": "Lo segundo mas rico del condado",
+    "price": 3500,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPhYc3llkvOUNM2YemeeJSQICR9_dKma0j2qgIlPTsVw&s",
+    "code": "abc236",
+    "stock": 20
+  },
+  {
+    "id": "3",
+    "title": "Pollo en Escabeche",
+    "description": "Lo tercero mas rico del condado",
+    "price": 4450,
+    "thumbnail": "Foto de Pollo en Escabeche",
+    "code": "abc342",
+    "stock": 15
+  }
+]

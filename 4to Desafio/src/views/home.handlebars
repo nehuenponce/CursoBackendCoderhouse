@@ -1,0 +1,15 @@
+{{header}}
+<h1>Las Recetas de la Abuela</h1>
+{{#if isProducts}}
+  <div class="lista-productos">
+    {{#each products}}
+      <div class="product-card">
+        <img src="{{this.thumbnail}}" alt="imagen de {{this.title}}" />
+        <h2> {{this.title}} </h2>
+        <p>{{this.description}}</p>
+      </div>
+    {{/each}}
+  </div>
+{{else}}
+  <h3>Empty List</h3>
+{{/if}}
